@@ -1,3 +1,5 @@
 this is text2 file, from AWS AMI
 
 second line aded from AWS
+
+tird line on 12th January from github by Ganesh Kumar.
