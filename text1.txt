@@ -1,1 +1,3 @@
 Hi, This is Ganesh Kumar. file was edited and uploaded from AMI.
+this line is from GITHUB
+this is from AWS AMI
