@@ -24,3 +24,4 @@ Q: Delete funtion:
 	dd 	- it deletes entire line 
 
 	ndd	- deletes n number of lines from the cursor
+this is the end of this file
