@@ -1,4 +1,0 @@
-this is text2 file, from AWS AMI
-this line added on 27th jan 2k22
-
-this line was added from ec2 aws on 27th jan

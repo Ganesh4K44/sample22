@@ -1,3 +1,7 @@
 Hi, This is Ganesh Kumar. file was edited and uploaded from AMI.
+<<<<<<< HEAD
 this line is from GITHUB
 this is from AWS AMI
+=======
+second line added from github
+>>>>>>> 9d3d25ce3f14dca471e63297b49bf8f9c1d32267
